@@ -1,0 +1,155 @@
+.img1{
+    height: 160px;
+    width: 100%;
+}
+.resume{
+    position: absolute;
+    top: 30px;
+    left: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 60px;
+    color: red;
+    border-color: red;
+    lighting-color: darkgoldenrod;
+}
+.my-profile{
+    border-radius: 50%;
+    height:300px;
+    width: 300x;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    border: floralwhite;
+    border: 5px solid #FFFFFF;
+}
+.intro{
+    position: absolute;
+    left: 28%;
+    
+}
+.education{
+    position: absolute;
+    top: 395px;
+}
+.Bit-logo{
+    border-radius: 50%;
+    height: 80px;
+    position: relative;
+    left: 30px;
+    top: 8px;
+}
+.clg-detail{
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+}
+.experience{
+    position: absolute;
+    top: 600px;
+}
+.EDC-logo{
+    height: 80px;
+    border-radius: 50%;
+    position: relative;
+    left:30px;
+}
+.EDC-club{
+    position: relative;
+    left:200px;
+    bottom: 90px;
+}
+.ECE-logo{
+    height: 80px;
+    border-radius: 50%;
+    position: relative;
+    left:30px;
+    bottom:50px;
+}
+.ece-society{
+    position: relative;
+    left: 200px;
+    bottom: 145px;
+}
+.esummit{
+    position: relative;
+    left:200px;
+    bottom:95px;
+}
+.certificate{
+    position: relative;
+    top:750px;
+}
+.award{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left:180px;
+}
+.skill{
+    position: relative;
+    top: 770px;
+}
+.interest{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left:180px;
+}
+.footer{
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 1350px;
+}
+.mail-f{
+    height:100px;
+    width: 100px;
+    padding-top: 10px;
+    padding-left: 200px;
+}
+.mail-id{
+    padding-left: 10px;
+    color: blue;
+}
+.mail-b{
+    position: relative;
+    right:180px;
+    top:40px;
+}
+.call-f{
+    height:100px;
+    width: 100px;
+   padding-top: 5px;
+    padding-left: 500px;
+   
+}
+.call-fme{
+    position: absolute;
+    top:1360px;
+}
+.call-me{
+    color: blue;
+}
+.call-b{
+    position: relative;
+    right:95px;
+    top:40px;
+} 
+.linkdein{
+    position: absolute;
+    top:1390px;
+    left:800px;
+    opacity: 1;
+ 
+
+}
+.blog{
+    position: absolute;
+    top:1380px;
+    right: 200px;
+    height:90px;
+    width: 90px;  
+    
+}
